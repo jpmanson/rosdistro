@@ -662,7 +662,7 @@ uuid:
 wxpython:
   osx:
     homebrew:
-      packages: []
+      packages: [wxpython]
 wxwidgets:
   osx:
     homebrew:
